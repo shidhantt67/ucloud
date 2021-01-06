@@ -1,0 +1,136 @@
+<?php
+
+// load theme functions
+$themeObj = themeHelper::getLoadedInstance();
+
+// page settings
+define("PAGE_NAME", t("payment_complete_page_name", "Payment Successfull"));
+define("PAGE_DESCRIPTION", "Select packages");
+
+// top navigation
+require_once(SITE_TEMPLATES_PATH . '/partial/_navigation_header.inc.php');
+
+// header top
+require_once(SITE_TEMPLATES_PATH . '/partial/_header_file_manager_top.inc.php');
+?>
+<style>
+.my-flex-card > div > div > div.panel-heading {
+    height: 30em;
+}
+</style>
+<body class="page-body login-page login-form-fall register-page">
+<div class="login-container">
+<div class="container">
+    <br>
+        <h2 class="text-center">Subscribe to a plan that works for you</h2><br><br>
+        <div class="row my-flex-card">
+
+            <div class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading text-center">
+                        <p><h3><b>10 GB</b></h3></p>
+                        <h4>Personal</h4>
+                        <hr>
+                        <form action="<?= WEB_ROOT.'/payment.'.SITE_CONFIG_PAGE_EXTENSION ?>" method="POST">
+                        <input type="hidden" id="payment" name="payment" value="3000">
+                        <p class="text-center"><input type="submit" name="submit" class="btn btn-primary" value="₹ 30 / month" id="butsave"></p>
+                        </form>
+                        <p>Or prepay annually</p>
+                        <p>(save 16%) :</p>
+                        <form action="<?= WEB_ROOT.'/payment.'.SITE_CONFIG_PAGE_EXTENSION ?>" method="POST">
+                        <input type="hidden" id="payment" name="payment" value="25000">
+                        <p class="text-center"><input type="submit" name="submit" class="btn btn-primary" value="₹ 250 / year" id="butsave"></p>
+                        </form>
+                        <hr>
+                        <p>Includes:</p>
+                        <p>10 GB storage</p>
+                    </div>
+                </div>
+            </div>
+        <div class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading text-center">
+                        <p><h3><b>25 GB</b></h3></p>
+                        <h4>Recommended</h4>
+                        <hr>
+                        <form action="<?= WEB_ROOT.'/payment.'.SITE_CONFIG_PAGE_EXTENSION ?>" method="POST">
+                        <input type="hidden" id="payment" name="payment" value="5000">
+                        <p class="text-center"><input type="submit" name="submit" class="btn btn-primary" value="₹ 50 / month" id="butsave"></p>
+                        </form>
+                        <p>Or prepay annually</p>
+                        <p>(save 16%) :</p>
+                        <form action="<?= WEB_ROOT.'/payment.'.SITE_CONFIG_PAGE_EXTENSION ?>" method="POST">
+                        <input type="hidden" id="payment" name="payment" value="49900">
+                        <p class="text-center"><input type="submit" name="submit" class="btn btn-primary" value="₹ 499 / year" id="butsave"></p>
+                        </form>
+                        <hr>
+                        <p>Includes:</p>
+                        <p>10 GB storage</p>
+                        <p>Access to Fonn Box experts</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading text-center">
+                        <p><h3><b>100 GB</b></h3></p>
+                        <h4>Start Up</h4>
+                        <hr>
+                        <form action="<?= WEB_ROOT.'/payment.'.SITE_CONFIG_PAGE_EXTENSION ?>" method="POST">
+                        <input type="hidden" id="payment" name="payment" value="9900">
+                        <p class="text-center"><input type="submit" name="submit" class="btn btn-primary" value="₹ 99 / month" id="butsave"></p>
+                        </form>
+                        <p>Or prepay annually</p>
+                        <p>(save 16%) :</p>
+                        <form action="<?= WEB_ROOT.'/payment.'.SITE_CONFIG_PAGE_EXTENSION ?>" method="POST">
+                        <input type="hidden" id="payment" name="payment" value="99900">
+                        <p class="text-center"><input type="submit" name="submit" class="btn btn-primary" value="₹ 999 / year" id="butsave"></p>
+                        </form>
+                        <hr>
+                        <p>Includes:</p>
+                        <p>10 GB storage</p>
+                        <p>Access to Fonn Box experts</p>
+                        <p>Extra member benefits</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading text-center">
+                        <p><h3><b>1 TB+</b></h3></p>
+                        <h4>Enterprise</h4>
+                        <hr>
+                        <input type="hidden" id="payment" name="payment" value="3000">
+                        <p class="text-center"><input type="submit" name="submit" class="btn btn-primary" value="Get Quote" id="butsave"></p>
+                        <p>Or Contact</p>
+                        <p>Sales</p>
+                        <input type="hidden" id="payment" name="payment" value="25000">
+                        <p class="text-center"><input type="submit" name="submit" class="btn btn-primary" value="sales@fonnbox.com" id="butsave"></p>
+                        <hr>
+                        <p>Includes:</p>
+                        <p>10 GB storage</p>
+                        <p>Access to Fonn Box experts</p>
+                        <p>Extra member benefits</p>
+                    </div>
+                </div>
+            </div>
+        </div>    <br><br>
+	
+</div>
+</div>
+
+<script src="<?php echo SITE_JS_PATH; ?>/gsap/main-gsap.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/bootstrap.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/joinable.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/resizeable.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/cloudable-api.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/jquery.validate.min.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/cloudable-login.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/custom.js"></script>
+
+</body>
+<?php
+// include footer
+require_once(SITE_TEMPLATES_PATH . '/partial/_footer.inc.php');

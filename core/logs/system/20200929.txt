@@ -1,0 +1,18 @@
+===========================================================
+2020-09-29 16:14:46 - *** WARNING *** Array
+(
+    [Error Msg] => file_put_contents(C:\xampp\htdocs\ucloud/core/logs/sociallogin_debug.txt): failed to open stream: Resource temporarily unavailable
+    [File] => C:\xampp\htdocs\ucloud\plugins\sociallogin\includes\hybridauth\Hybrid\Logger.php
+    [Line Number] => 67
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-29 18:14:49 - *** WARNING *** Array
+(
+    [Error Msg] => file_put_contents(C:\xampp\htdocs\ucloud/core/logs/sociallogin_debug.txt): failed to open stream: Resource temporarily unavailable
+    [File] => C:\xampp\htdocs\ucloud\plugins\sociallogin\includes\hybridauth\Hybrid\Logger.php
+    [Line Number] => 48
+    [Error Type] => E_WARNING
+)
+

@@ -1,0 +1,671 @@
+===========================================================
+2020-09-27 13:10:17 - Array
+(
+    [Error Msg] => Undefined variable: contact
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 125
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 13:26:52 - *** WARNING *** Array
+(
+    [Error Msg] => file_put_contents(C:\xampp\htdocs\ucloud/core/logs/sociallogin_debug.txt): failed to open stream: Resource temporarily unavailable
+    [File] => C:\xampp\htdocs\ucloud\plugins\sociallogin\includes\hybridauth\Hybrid\Logger.php
+    [Line Number] => 48
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-27 13:54:43 - *** WARNING *** Array
+(
+    [Error Msg] => file_put_contents(C:\xampp\htdocs\ucloud/core/logs/sociallogin_debug.txt): failed to open stream: Resource temporarily unavailable
+    [File] => C:\xampp\htdocs\ucloud\plugins\sociallogin\includes\hybridauth\Hybrid\Logger.php
+    [Line Number] => 48
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-27 14:15:03 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 14:15:24 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 14:45:23 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 14
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 14:45:23 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 27
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 14:45:48 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 14
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 14:46:06 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 14
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 14:46:24 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact_no
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 14
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 15:11:44 - Array
+(
+    [Error Msg] => Undefined variable: totalActive
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 48
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:11:44 - Array
+(
+    [Error Msg] => Undefined variable: totalTrash
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 52
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:11:44 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:11:44 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:11:44 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:11:44 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:11:44 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:11:44 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 15:13:58 - Array
+(
+    [Error Msg] => Undefined variable: totalActive
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 48
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:13:58 - Array
+(
+    [Error Msg] => Undefined variable: totalTrash
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 52
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:13:58 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:13:58 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:13:58 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:13:58 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:13:58 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:13:58 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 15:16:34 - Array
+(
+    [Error Msg] => Undefined variable: totalActive
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 48
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:34 - Array
+(
+    [Error Msg] => Undefined variable: totalTrash
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 52
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:34 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:34 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:34 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:34 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:34 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:34 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 15:16:49 - Array
+(
+    [Error Msg] => Undefined variable: totalActive
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 48
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:49 - Array
+(
+    [Error Msg] => Undefined variable: totalTrash
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 52
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:49 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:49 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:49 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:49 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:49 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:16:49 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 15:21:12 - Array
+(
+    [Error Msg] => Undefined variable: totalActive
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 48
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:12 - Array
+(
+    [Error Msg] => Undefined variable: totalTrash
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 52
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:12 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:12 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:12 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:12 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:12 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:12 - *** WARNING *** Array
+(
+    [Error Msg] => fopen(C:\xampp\htdocs\ucloud/core/logs/system/20200927.txt): failed to open stream: Resource temporarily unavailable
+    [File] => C:\xampp\htdocs\ucloud\core\includes\log.class.php
+    [Line Number] => 274
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-27 15:21:26 - Array
+(
+    [Error Msg] => Undefined variable: totalActive
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 48
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:26 - Array
+(
+    [Error Msg] => Undefined variable: totalTrash
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 52
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:26 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:26 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:26 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:26 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:26 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:21:26 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 15:23:50 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:23:50 - Array
+(
+    [Error Msg] => Undefined index: error
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 101
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:23:50 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-09-27 15:24:12 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:24:12 - Array
+(
+    [Error Msg] => Undefined index: error
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 101
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:24:12 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-09-27 15:24:54 - Array
+(
+    [Error Msg] => Undefined variable: file
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\index.html
+    [Line Number] => 69
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 15:25:09 - Array
+(
+    [Error Msg] => Undefined variable: file
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\index.html
+    [Line Number] => 69
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 15:26:54 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:26:54 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-09-27 15:27:00 - Array
+(
+    [Error Msg] => Undefined variable: loginUsername
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 306
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:27:00 - Array
+(
+    [Error Msg] => Undefined index: error
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 101
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:27:00 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-09-27 15:27:18 - Array
+(
+    [Error Msg] => Undefined index: filterUserId
+    [File] => C:\xampp\htdocs\ucloud\admin\ajax\payment.ajax.php
+    [Line Number] => 10
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:27:18 - Array
+(
+    [Error Msg] => Undefined variable: filterByUser
+    [File] => C:\xampp\htdocs\ucloud\admin\ajax\payment.ajax.php
+    [Line Number] => 41
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-27 15:29:33 - Array
+(
+    [Error Msg] => Undefined variable: totalActive
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 48
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:29:33 - Array
+(
+    [Error Msg] => Undefined variable: totalTrash
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\templates\partial\_account_home_javascript.inc.php
+    [Line Number] => 52
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:29:33 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:29:33 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:29:33 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:29:33 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:29:33 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+
+2020-09-27 15:29:33 - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\core\includes\coreFunctions.class.php
+    [Line Number] => 99
+    [Error Type] => E_NOTICE
+)
+

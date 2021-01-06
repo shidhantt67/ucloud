@@ -1,0 +1,212 @@
+===========================================================
+2020-09-23 08:31:28 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-09-23 08:31:28 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-09-23 08:45:52 - Array
+(
+    [Error Msg] => Undefined variable: failsafe
+    [File] => C:\xampp\htdocs\ucloud\plugins\fileimport\pluginFileimport.class.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-23 08:46:03 - Array
+(
+    [Error Msg] => Undefined index: html
+    [File] => C:\xampp\htdocs\ucloud\admin\ajax\server_manage_add_form.ajax.php
+    [Line Number] => 122
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-23 08:46:09 - Array
+(
+    [Error Msg] => Undefined index: css_code
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\admin\settings.php
+    [Line Number] => 43
+    [Error Type] => E_NOTICE
+)
+
+2020-09-23 08:46:09 - Array
+(
+    [Error Msg] => Undefined variable: themeId
+    [File] => C:\xampp\htdocs\ucloud\themes\cloudable\admin\settings.php
+    [Line Number] => 266
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-23 08:46:14 - Array
+(
+    [Error Msg] => Methods with the same name as their class will not be constructors in a future version of PHP; PclZip has a deprecated constructor
+    [File] => C:\xampp\htdocs\ucloud\core\includes\pclzip\pclzip.lib.php
+    [Line Number] => 190
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-09-23 08:46:38 - Array
+(
+    [Error Msg] => Undefined variable: deleteRs
+    [File] => C:\xampp\htdocs\ucloud\admin\api_test_framework.php
+    [Line Number] => 196
+    [Error Type] => E_NOTICE
+)
+
+2020-09-23 08:46:38 - *** WARNING *** Array
+(
+    [Error Msg] => count(): Parameter must be an array or an object that implements Countable
+    [File] => C:\xampp\htdocs\ucloud\admin\api_test_framework.php
+    [Line Number] => 196
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-23 08:47:03 - Array
+(
+    [Error Msg] => Undefined variable: user_password
+    [File] => C:\xampp\htdocs\ucloud\admin\user_edit.php
+    [Line Number] => 516
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-23 09:33:14 - Array
+(
+    [Error Msg] => Undefined variable: user_password
+    [File] => C:\xampp\htdocs\ucloud\admin\user_edit.php
+    [Line Number] => 516
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-23 09:34:07 - Array
+(
+    [Error Msg] => Undefined index: filterText
+    [File] => C:\xampp\htdocs\ucloud\admin\ajax\user_manage.ajax.php
+    [Line Number] => 9
+    [Error Type] => E_NOTICE
+)
+
+2020-09-23 09:34:07 - Array
+(
+    [Error Msg] => Undefined index: filterByAccountType
+    [File] => C:\xampp\htdocs\ucloud\admin\ajax\user_manage.ajax.php
+    [Line Number] => 10
+    [Error Type] => E_NOTICE
+)
+
+2020-09-23 09:34:07 - Array
+(
+    [Error Msg] => Undefined index: filterByAccountStatus
+    [File] => C:\xampp\htdocs\ucloud\admin\ajax\user_manage.ajax.php
+    [Line Number] => 11
+    [Error Type] => E_NOTICE
+)
+
+2020-09-23 09:34:07 - Array
+(
+    [Error Msg] => Undefined index: filterByAccountId
+    [File] => C:\xampp\htdocs\ucloud\admin\ajax\user_manage.ajax.php
+    [Line Number] => 12
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-23 09:36:14 - Array
+(
+    [Error Msg] => Undefined variable: accountTypeDetails
+    [File] => C:\xampp\htdocs\ucloud\admin\payment.php
+    [Line Number] => 351
+    [Error Type] => E_NOTICE
+)
+
+2020-09-23 09:36:14 - *** WARNING *** Array
+(
+    [Error Msg] => count(): Parameter must be an array or an object that implements Countable
+    [File] => C:\xampp\htdocs\ucloud\admin\payment.php
+    [Line Number] => 351
+    [Error Type] => E_WARNING
+)
+
+2020-09-23 09:36:14 - Array
+(
+    [Error Msg] => Undefined variable: accountStatusDetails
+    [File] => C:\xampp\htdocs\ucloud\admin\payment.php
+    [Line Number] => 372
+    [Error Type] => E_NOTICE
+)
+
+2020-09-23 09:36:14 - *** WARNING *** Array
+(
+    [Error Msg] => count(): Parameter must be an array or an object that implements Countable
+    [File] => C:\xampp\htdocs\ucloud\admin\payment.php
+    [Line Number] => 372
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-23 09:36:26 - Array
+(
+    [Error Msg] => Undefined variable: accountTypeDetails
+    [File] => C:\xampp\htdocs\ucloud\admin\payment.php
+    [Line Number] => 351
+    [Error Type] => E_NOTICE
+)
+
+2020-09-23 09:36:26 - *** WARNING *** Array
+(
+    [Error Msg] => count(): Parameter must be an array or an object that implements Countable
+    [File] => C:\xampp\htdocs\ucloud\admin\payment.php
+    [Line Number] => 351
+    [Error Type] => E_WARNING
+)
+
+2020-09-23 09:36:26 - Array
+(
+    [Error Msg] => Undefined variable: accountStatusDetails
+    [File] => C:\xampp\htdocs\ucloud\admin\payment.php
+    [Line Number] => 372
+    [Error Type] => E_NOTICE
+)
+
+2020-09-23 09:36:26 - *** WARNING *** Array
+(
+    [Error Msg] => count(): Parameter must be an array or an object that implements Countable
+    [File] => C:\xampp\htdocs\ucloud\admin\payment.php
+    [Line Number] => 372
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-23 14:59:41 - Array
+(
+    [Error Msg] => Undefined variable: accountTypeDetails
+    [File] => C:\xampp\htdocs\ucloud\admin\payment.php
+    [Line Number] => 351
+    [Error Type] => E_NOTICE
+)
+
+2020-09-23 14:59:41 - *** WARNING *** Array
+(
+    [Error Msg] => count(): Parameter must be an array or an object that implements Countable
+    [File] => C:\xampp\htdocs\ucloud\admin\payment.php
+    [Line Number] => 351
+    [Error Type] => E_WARNING
+)
+

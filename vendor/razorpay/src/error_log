@@ -1,0 +1,16 @@
+[23-Nov-2020 17:22:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Razorpay\Api\Entity' not found in /home1/fonnboxc/public_html/users/razorpay/src/Order.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/fonnboxc/public_html/users/razorpay/src/Order.php on line 5
+[23-Nov-2020 17:22:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Razorpay\Api\Entity' not found in /home1/fonnboxc/public_html/users/razorpay/src/Collection.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/fonnboxc/public_html/users/razorpay/src/Collection.php on line 7
+[23-Nov-2020 17:22:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Razorpay\Api\Entity' not found in /home1/fonnboxc/public_html/users/razorpay/src/Payment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/fonnboxc/public_html/users/razorpay/src/Payment.php on line 7
+[23-Nov-2020 17:22:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Razorpay\Api\Entity' not found in /home1/fonnboxc/public_html/users/razorpay/src/Plan.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/fonnboxc/public_html/users/razorpay/src/Plan.php on line 5

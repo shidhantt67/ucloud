@@ -1,0 +1,15 @@
+===========================================================
+2020-10-03 08:18:27 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers. in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC0f4...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(41): Twilio\Rest\Api\V2010\Account\MessageList->create('+919690720378', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+

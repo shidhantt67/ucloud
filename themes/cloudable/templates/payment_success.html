@@ -1,0 +1,129 @@
+<?php
+// local template functions
+require_once(SITE_TEMPLATES_PATH . '/partial/_template_functions.inc.php');
+
+
+// load theme functions
+$themeObj = themeHelper::getLoadedInstance();
+
+
+// page settings
+define("PAGE_NAME", t("payment_complete_page_name", "Payment Successfull"));
+define("HTML_ELEMENT_CLASS", "login-page-wrapper");
+
+// top navigation
+require_once(SITE_TEMPLATES_PATH . '/partial/_navigation_header.inc.php');
+
+// header top
+require_once(SITE_TEMPLATES_PATH . '/partial/_header_file_manager_top.inc.php');
+
+use Razorpay\Api\Api;
+use Razorpay\Api\Errors\SignatureVerificationError;
+
+$AuthUser = Auth::getAuth();
+$db = Database::getDatabase();
+
+$success = true;
+$error = "Payment Failed";
+
+if ( ! empty( $_POST['razorpay_payment_id']))
+{
+    $api = new Api($keyId, $keySecret);
+    
+    
+    $user_id = $AuthUser->id;
+    $razorpay_payment_id = $_POST['razorpay_payment_id'];
+    $razorpay_order_id = $_COOKIE["order_id"];
+    $razorpay_signature = $_POST['razorpay_signature'];
+    $ammount = $_POST['ammount']/100;
+    
+
+    $dbInsert = new DBObject("payment_laser", array("user_id", "payment_id", "order_id", "signature_hash", "ammount", "status"));
+    $dbInsert->user_id = $user_id;
+    $dbInsert->payment_id = $razorpay_payment_id;
+    $dbInsert->order_id = $razorpay_order_id;
+    $dbInsert->signature_hash = $razorpay_signature;
+    $dbInsert->ammount = $ammount;
+    $dbInsert->status = 1;
+    $transactionId = $dbInsert->insert();
+
+    $generated_signature = hash_hmac("sha256", $razorpay_order_id + "|" + $razorpay_payment_id, $keySecret);
+}else{
+
+}
+
+if ($success === true)
+{
+    $dbUpdate = new DBObject("payment_laser", array("status"), 'id');
+    $dbUpdate->status = 1;
+    $dbUpdate->id = $transactionId;
+    $dbUpdate->update();
+    // setup success message
+    notification::setSuccess(t("payment_success", "Payment Successfull"));
+}else
+{
+    $dbUpdate = new DBObject("payment_laser", array("status"), 'id');
+    $dbUpdate->status = 2;
+    $dbUpdate->id = $transactionId;
+    $dbUpdate->update();
+    $html = "<p>Your payment failed</p>
+             <p>{$error}</p>";
+}
+?>
+<body class="page-body login-page login-form-fall register-page">
+    <div class="login-container">
+        <div class="login-header login-caret">
+            <div class="login-content">
+                <a href="<?php echo coreFunctions::getCoreSitePath(); ?>/index.<?php echo SITE_CONFIG_PAGE_EXTENSION; ?>" class="logo">
+                    <img src="<?php echo $themeObj->getMainLogoUrl(); ?>" alt="<?php echo SITE_CONFIG_SITE_NAME; ?>" alt="<?php echo SITE_CONFIG_SITE_NAME; ?>"/>
+                </a>
+            </div>
+        </div>
+        <div class="login-progressbar">
+            <div></div>
+        </div>
+        <div class="login-form">
+            <div class="login-content">
+				<div class="login-main-box">
+					<?php
+					echo str_replace("pageSuccess", "alert alert-success", notification::outputSuccess());
+					?>
+					<p class="description"></p>
+					
+				</div>
+			</div>
+			<div class="footer-login-links">
+				<?php echo t("copyright", "copyright"); ?> &copy; <?php echo date("Y"); ?> - <a href="<?php echo coreFunctions::getCoreSitePath(); ?>"><?php echo SITE_CONFIG_SITE_NAME; ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;Powered by <a href="https://mfscripts.com/ucloud/overview.html">uCloud</a>
+			</div>
+        </div>
+    </div>
+    <!-- Bottom Scripts -->
+    
+    <script src="<?php echo SITE_JS_PATH; ?>/gsap/main-gsap.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/bootstrap.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/joinable.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/resizeable.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/cloudable-api.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/jquery.validate.min.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/cloudable-login.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/custom.js"></script>
+    <script>
+    $(document).ready(function(){
+        function resend_button(){
+            var i = 5;
+            var time = $(".description")
+            var timer = setInterval(function() {
+            time.html('You will be redirected in ' + i + ' seconds...');
+            if (i == 0) {
+                clearInterval(timer);
+                window.location.href = WEB_ROOT;
+            }
+            i--;
+            }, 1000);
+        }
+        resend_button();
+    });
+    
+    </script>
+</body>
+</html>

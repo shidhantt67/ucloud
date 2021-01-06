@@ -1,0 +1,43 @@
+===========================================================
+2020-09-22 07:34:55 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-09-22 07:34:55 - Array
+(
+    [Error Msg] => Undefined index: error
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 101
+    [Error Type] => E_NOTICE
+)
+
+2020-09-22 07:34:55 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-09-22 07:39:20 - Array
+(
+    [Error Msg] => Undefined index: html
+    [File] => C:\xampp\htdocs\ucloud\admin\ajax\server_manage_add_form.ajax.php
+    [Line Number] => 122
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-22 07:39:39 - Array
+(
+    [Error Msg] => Undefined variable: failsafe
+    [File] => C:\xampp\htdocs\ucloud\plugins\fileimport\pluginFileimport.class.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+

@@ -1,0 +1,195 @@
+<?php
+$file = null;
+if (isset($_REQUEST['_page_url']))
+{
+    // only keep the initial part if there's a forward slash
+    $shortUrl = current(explode("/", str_replace("~s", "", $_REQUEST['_page_url'])));
+    $file     = file::loadByShortUrl($shortUrl);
+}
+
+// load file details
+if (!$file)
+{
+    // if no file found, redirect to home page
+    coreFunctions::redirect(coreFunctions::getCoreSitePath() . "/index." . SITE_CONFIG_PAGE_EXTENSION);
+}
+
+// make sure user is permitted to view stats
+if ($file->canViewStats() == false)
+{
+    $errorMsg = t("stats_error_file_statistics_are_private", "Statistics for this file are not publicly viewable.");
+    coreFunctions::redirect(coreFunctions::getCoreSitePath() . "/error." . SITE_CONFIG_PAGE_EXTENSION . "?e=" . urlencode($errorMsg));
+}
+
+$stats_title = '';
+$stats_title .= $file->originalFilename . ' ';
+$stats_title .= t("stats_title", "statistics");
+
+$stats_left = '';
+$stats_left .= t("uploaded", "Uploaded").' ';
+$stats_left .= coreFunctions::formatDate($file->uploadedDate);
+$stats_left .= ' - ' . t("downloads", "Downloads").' ';
+$stats_left .= $file->visits;
+
+/* setup page */
+define("PAGE_NAME", $stats_title);
+define("PAGE_DESCRIPTION", t("stats_meta_description", "Uploaded file statistics"));
+define("PAGE_KEYWORDS", t("stats_meta_keywords", "stats, statistics, unique, visitors, hits, file, upload"));
+
+define("TITLE_DESCRIPTION_RIGHT", t("file_statistics_title_page_description_right", "Uploaded [[[UPLOADED_DATE]]]</br> Downloads [[[DOWNLOAD_DATE]]]", array('UPLOADED_DATE' => coreFunctions::formatDate($file->uploadedDate), 'DOWNLOAD_DATE' => $file->visits)));
+
+define("TITLE_DESCRIPTION_LEFT", $stats_left);
+
+// include header
+require_once(SITE_TEMPLATES_PATH . '/partial/_header.inc.php');
+?>
+
+<script src="<?php echo SITE_JS_PATH; ?>/charts/Chart.js"></script>
+<script>
+    $ = jQuery;
+
+<?php
+// last 24 hours chart
+$last24hours = charts::createBarChart($file, 'last24hours');
+echo $last24hours['chartJS'];
+
+// last 7 days chart
+$last7days = charts::createBarChart($file, 'last7days');
+echo $last7days['chartJS'];
+
+// last 30 days chart
+$last30days = charts::createBarChart($file, 'last30days');
+echo $last30days['chartJS'];
+
+// last 12 months chart
+$last12months = charts::createBarChart($file, 'last12months');
+echo $last12months['chartJS'];
+
+// top countries pie
+$countries = charts::createPieChart($file, 'countries');
+echo $countries['chartJS'];
+
+// top referrers pie
+$referrers = charts::createPieChart($file, 'referrers');
+echo $referrers['chartJS'];
+
+// top browsers pie
+$browsers = charts::createPieChart($file, 'browsers');
+echo $browsers['chartJS'];
+
+// top os pie
+$os = charts::createPieChart($file, 'os');
+echo $os['chartJS'];
+?>
+        
+    $(document).ready(function($)
+    {
+        redrawCharts();
+    });
+
+    $(window).resize(function()
+    {
+        redrawCharts();
+    });
+
+    function redrawCharts()
+    {
+<?php
+echo $last24hours['onLoadJS'];
+echo $last7days['onLoadJS'];
+echo $last30days['onLoadJS'];
+echo $last12months['onLoadJS'];
+echo $countries['onLoadJS'];
+echo $referrers['onLoadJS'];
+echo $browsers['onLoadJS'];
+echo $os['onLoadJS'];
+?>
+    }
+
+    function showChart(chartId)
+    {
+        $('#tab1_chart1').hide();
+        $('#tab1_chart2').hide();
+        $('#tab1_chart3').hide();
+        $('#tab1_chart4').hide();
+        $('#' + chartId).show(0, function() {
+            redrawCharts();
+        });
+
+        return false;
+    }
+</script>
+<div>
+    <div id="tabs" class="tab-content">
+        <ul class="nav nav-tabs stats-padding">
+            <li class="active"><a href="#tab1" data-toggle="tab"><i class="fa fa-user tab-padding"></i><?php echo t("visitors", "visitors"); ?></a></li>
+            <li><a href="#tab2" data-toggle="tab"><i class="fa fa-globe tab-padding"></i><?php echo t("countries", "countries"); ?></a></li>
+            <li><a href="#tab3" data-toggle="tab"><i class="fa fa-comment tab-padding"></i><?php echo t("top_referrers", "top referrers"); ?></a></li>
+            <li><a href="#tab4" data-toggle="tab"><i class="fa fa-laptop tab-padding"></i><?php echo t("browsers", "browsers"); ?></a></li>
+            <li><a href="#tab5" data-toggle="tab"><i class="fa fa-linux tab-padding"></i><?php echo t("operating_systems", "operating systems"); ?></a></li>
+        </ul>  
+        <div id="tab1" class="tab-pane active">
+            <!-- TAB 1 -->
+            <div class="text-center">
+                <a href="#" onClick="showChart('tab1_chart1');
+        return false;"><?php echo t("last_24_hours", "last 24 hours"); ?></a> | <a href="#" onClick="showChart('tab1_chart2');
+        return false;"><?php echo t("last_7_days", "last 7 days"); ?></a> | <a href="#" onClick="showChart('tab1_chart3');
+        return false;"><?php echo t("last_30_days", "last 30 days"); ?></a> | <a href="#" onClick="showChart('tab1_chart4');
+        return false;"><?php echo t("last_12_months", "last 12 months"); ?></a><br/><br/>
+            </div>
+            <div id="tab1_chart1">
+                <div class="responsiveTable"><?php echo $last24hours['canvasHTML']; ?>
+                    <div> 
+                        <?php echo $last24hours['dataTableHTML']; ?>
+                    </div>
+                </div>
+            </div>
+            <div id="tab1_chart2" style="display:none;">
+                <?php echo $last7days['canvasHTML']; ?>
+                <div> 
+                    <?php echo $last7days['dataTableHTML']; ?>
+                </div>
+            </div>
+            <div id="tab1_chart3" style="display:none;">
+                <?php echo $last30days['canvasHTML']; ?>
+                <div> 
+                    <?php echo $last30days['dataTableHTML']; ?>
+                </div>
+            </div>
+            <div id="tab1_chart4" style="display:none;">
+                <?php echo $last12months['canvasHTML']; ?>
+                <div> 
+                    <?php echo $last12months['dataTableHTML']; ?>
+                </div>
+            </div>
+        </div>
+        <div id="tab2" class="tab-pane">
+            <?php echo $countries['canvasHTML']; ?>
+            <div> 
+                <?php echo $countries['dataTableHTML']; ?>
+            </div>
+        </div>
+        <div id="tab3" class="tab-pane">
+            <?php echo $referrers['canvasHTML']; ?>
+            <div> 
+                <?php echo $referrers['dataTableHTML']; ?>
+            </div>
+        </div>
+        <div id="tab4" class="tab-pane">
+            <?php echo $browsers['canvasHTML']; ?>
+            <div> 
+                <?php echo $browsers['dataTableHTML']; ?>
+            </div>
+        </div>
+        <div id="tab5" class="tab-pane">
+            <?php echo $os['canvasHTML']; ?>
+            <div> 
+                <?php echo $os['dataTableHTML']; ?>
+            </div>
+        </div>
+    </div>
+</div>
+<?php
+// include footer
+require_once(SITE_TEMPLATES_PATH . '/partial/_footer.inc.php');
+?>

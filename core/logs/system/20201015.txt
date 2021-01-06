@@ -1,0 +1,346 @@
+===========================================================
+2020-10-15 18:02:07 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 404] Unable to create record: The requested resource /2010-04-01/Accounts/AC333sHvdDD4gy2N2i8kBEi8Z81Q6oj6RH68/Messages.json was not found in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(41): Twilio\Rest\Api\V2010\Account\MessageList->create('+9108427484000', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:03:29 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 404] Unable to create record: The requested resource /2010-04-01/Accounts/AC333sHvdDD4gy2N2i8kBEi8Z81Q6oj6RH68/Messages.json was not found in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(41): Twilio\Rest\Api\V2010\Account\MessageList->create('+916389896544', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:09:23 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 404] Unable to create record: The requested resource /2010-04-01/Accounts/AC333sHvdDD4gy2N2i8kBEi8Z81Q6oj6RH68/Messages.json was not found in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(41): Twilio\Rest\Api\V2010\Account\MessageList->create('+916389896544', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:09:47 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 404] Unable to create record: The requested resource /2010-04-01/Accounts/AC333sHvdDD4gy2N2i8kBEi8Z81Q6oj6RH68/Messages.json was not found in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(41): Twilio\Rest\Api\V2010\Account\MessageList->create('+916389896544', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:12:34 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 404] Unable to create record: The requested resource /2010-04-01/Accounts/AC333sHvdDD4gy2N2i8kBEi8Z81Q6oj6RH68/Messages.json was not found in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(41): Twilio\Rest\Api\V2010\Account\MessageList->create('+916389896544', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:14:01 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 404] Unable to create record: The requested resource /2010-04-01/Accounts/AC333sHvdDD4gy2N2i8kBEi8Z81Q6oj6RH68/Messages.json was not found in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(41): Twilio\Rest\Api\V2010\Account\MessageList->create('+916389896544', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:14:42 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 404] Unable to create record: The requested resource /2010-04-01/Accounts/AC333sHvdDD4gy2N2i8kBEi8Z81Q6oj6RH68/Messages.json was not found in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(41): Twilio\Rest\Api\V2010\Account\MessageList->create('+916389896544', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:16:47 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 401] Unable to create record: Authentication Error - invalid username in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/PNa9b...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(41): Twilio\Rest\Api\V2010\Account\MessageList->create('+916389896544', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:22:09 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 401] Unable to create record: Authenticate in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(42): Twilio\Rest\Api\V2010\Account\MessageList->create('+916389896544', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:48:58 - Array
+(
+    [Error Msg] => Undefined variable: PAT_AMT
+    [File] => C:\xampp\htdocs\ucloud\users\userpayment.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+
+2020-10-15 18:48:59 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Razorpay\Api\Errors\BadRequestError: The amount field is required. in C:\xampp\htdocs\ucloud\users\razorpay\src\Request.php:139
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\razorpay\src\Request.php(109): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 C:\xampp\htdocs\ucloud\users\razorpay\src\Request.php(58): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 C:\xampp\htdocs\ucloud\users\razorpay\src\Entity.php(86): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 C:\xampp\htdocs\ucloud\users\razorpay\src\Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 C:\xampp\htdocs\ucloud\users\razorpay\src\Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 C:\xampp\htdocs\ucloud\users\userpayment.php(27): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\razorpay\src\Request.php
+    [Line Number] => 139
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:51:29 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact_no
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 28
+    [Error Type] => E_NOTICE
+)
+
+2020-10-15 18:51:32 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number +91 is not a valid phone number. in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(42): Twilio\Rest\Api\V2010\Account\MessageList->create('+91', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:52:46 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact_no
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 28
+    [Error Type] => E_NOTICE
+)
+
+2020-10-15 18:52:47 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number +91 is not a valid phone number. in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(42): Twilio\Rest\Api\V2010\Account\MessageList->create('+91', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:53:26 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact_no
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 28
+    [Error Type] => E_NOTICE
+)
+
+2020-10-15 18:53:28 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number +91 is not a valid phone number. in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(42): Twilio\Rest\Api\V2010\Account\MessageList->create('+91', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 18:54:40 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact_no
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 28
+    [Error Type] => E_NOTICE
+)
+
+2020-10-15 18:54:41 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number +91 is not a valid phone number. in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(42): Twilio\Rest\Api\V2010\Account\MessageList->create('+91', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-15 19:04:36 - Array
+(
+    [Error Msg] => Undefined index: username
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 26
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-10-15 19:11:10 - Array
+(
+    [Error Msg] => Trying to get property 'contact_no' of non-object
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 30
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-10-15 19:23:10 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => C:\xampp\htdocs\ucloud\users\userpayment.php
+    [Line Number] => 16
+    [Error Type] => E_NOTICE
+)
+
+2020-10-15 19:23:10 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => C:\xampp\htdocs\ucloud\users\userpayment.php
+    [Line Number] => 49
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-10-15 19:23:54 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => C:\xampp\htdocs\ucloud\users\userpayment.php
+    [Line Number] => 16
+    [Error Type] => E_NOTICE
+)
+
+2020-10-15 19:23:54 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => C:\xampp\htdocs\ucloud\users\userpayment.php
+    [Line Number] => 49
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-10-15 19:24:37 - Array
+(
+    [Error Msg] => Undefined variable: keySecret
+    [File] => C:\xampp\htdocs\ucloud\users\success.php
+    [Line Number] => 19
+    [Error Type] => E_NOTICE
+)
+
+2020-10-15 19:24:37 - *** WARNING *** Array
+(
+    [Error Msg] => A non-numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\users\success.php
+    [Line Number] => 38
+    [Error Type] => E_WARNING
+)
+
+2020-10-15 19:24:37 - *** WARNING *** Array
+(
+    [Error Msg] => A non-numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\users\success.php
+    [Line Number] => 38
+    [Error Type] => E_WARNING
+)
+
+2020-10-15 19:24:37 - *** WARNING *** Array
+(
+    [Error Msg] => A non-numeric value encountered
+    [File] => C:\xampp\htdocs\ucloud\users\success.php
+    [Line Number] => 38
+    [Error Type] => E_WARNING
+)
+
+2020-10-15 19:24:37 - Array
+(
+    [Error Msg] => Undefined variable: keySecret
+    [File] => C:\xampp\htdocs\ucloud\users\success.php
+    [Line Number] => 38
+    [Error Type] => E_NOTICE
+)
+

@@ -1,0 +1,340 @@
+===========================================================
+2020-09-30 05:42:28 - *** WARNING *** Array
+(
+    [Error Msg] => file_put_contents(C:\xampp\htdocs\ucloud/core/logs/sociallogin_debug.txt): failed to open stream: Resource temporarily unavailable
+    [File] => C:\xampp\htdocs\ucloud\plugins\sociallogin\includes\hybridauth\Hybrid\Logger.php
+    [Line Number] => 48
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-30 05:46:57 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:47:03 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:47:08 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:48:14 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:48:22 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:48:27 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:48:39 - *** WARNING *** Array
+(
+    [Error Msg] => file_put_contents(C:\xampp\htdocs\ucloud/core/logs/sociallogin_debug.txt): failed to open stream: Resource temporarily unavailable
+    [File] => C:\xampp\htdocs\ucloud\plugins\sociallogin\includes\hybridauth\Hybrid\Logger.php
+    [Line Number] => 48
+    [Error Type] => E_WARNING
+)
+
+2020-09-30 05:48:39 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:48:43 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:48:44 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:48:44 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:48:45 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:48:45 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:48:45 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:48:45 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:48:55 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:49:00 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:49:34 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:51:02 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:51:38 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:53:10 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:53:49 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:54:42 - *** WARNING *** Array
+(
+    [Error Msg] => file_put_contents(C:\xampp\htdocs\ucloud/core/logs/sociallogin_debug.txt): failed to open stream: Resource temporarily unavailable
+    [File] => C:\xampp\htdocs\ucloud\plugins\sociallogin\includes\hybridauth\Hybrid\Logger.php
+    [Line Number] => 48
+    [Error Type] => E_WARNING
+)
+
+2020-09-30 05:54:42 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:58:28 - Array
+(
+    [Error Msg] => Undefined index: confirm_password
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:59:28 - Array
+(
+    [Error Msg] => Undefined index: cpasswod
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 05:59:46 - Array
+(
+    [Error Msg] => Undefined index: cpasswod
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 06:00:00 - Array
+(
+    [Error Msg] => Undefined index: cpasswod
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 06:00:14 - Array
+(
+    [Error Msg] => Undefined index: cpasswod
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 06:01:12 - Array
+(
+    [Error Msg] => Undefined index: cpasswod
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 06:03:14 - Array
+(
+    [Error Msg] => Undefined index: cpasswod
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 06:03:26 - Array
+(
+    [Error Msg] => Undefined index: cpasswod
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 06:03:30 - Array
+(
+    [Error Msg] => Undefined index: cpasswod
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 06:04:25 - Array
+(
+    [Error Msg] => Undefined index: cpasswod
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 06:04:40 - Array
+(
+    [Error Msg] => Undefined index: cpasswod
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 06:04:44 - Array
+(
+    [Error Msg] => Undefined index: cpasswod
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-30 06:04:49 - Array
+(
+    [Error Msg] => Undefined index: cpasswod
+    [File] => C:\xampp\htdocs\ucloud\users\userregistraction.php
+    [Line Number] => 58
+    [Error Type] => E_NOTICE
+)
+

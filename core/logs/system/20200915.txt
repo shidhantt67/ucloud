@@ -1,0 +1,17 @@
+===========================================================
+2020-09-15 14:23:59 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-09-15 14:23:59 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => C:\xampp\htdocs\ucloud\admin\login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+

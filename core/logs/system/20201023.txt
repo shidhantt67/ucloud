@@ -1,0 +1,4176 @@
+===========================================================
+2020-10-23 01:09:30 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:09:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:09:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:09:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:09:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:09:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 01:09:31 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:09:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:09:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:09:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:09:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:09:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 01:58:58 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:58:58 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:58:58 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:58:58 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:58:58 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 01:58:58 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 02:59:13 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:13 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:13 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:13 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:13 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:13 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 02:59:14 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 02:59:16 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:16 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:16 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:16 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:16 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 02:59:16 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 05:34:00 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 05:34:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 05:34:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 05:34:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 05:34:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 05:34:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 06:00:30 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:00:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:00:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:00:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:00:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:00:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 06:28:08 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:28:08 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:28:08 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:28:08 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:28:08 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:28:08 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 06:34:26 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:34:26 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:34:26 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:34:26 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:34:26 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:34:26 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 06:36:57 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:36:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:36:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:36:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:36:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:36:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 06:37:34 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:37:34 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:37:34 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:37:34 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:37:34 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:37:34 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 06:38:45 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:38:45 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:38:45 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:38:45 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:38:45 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:38:45 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 06:40:59 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:40:59 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:40:59 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:40:59 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:40:59 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:40:59 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 06:45:12 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:45:12 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:45:12 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:45:12 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:45:12 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 06:45:12 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 11:39:37 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 11:39:43 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:43 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:43 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:43 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:43 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:43 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 11:39:43 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:43 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:43 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:43 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:43 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:39:43 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 11:40:01 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:40:01 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:40:01 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:40:01 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:40:01 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:40:01 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 11:47:16 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:16 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:16 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:16 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:16 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:16 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 11:47:33 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:33 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:33 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:33 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:33 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:33 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 11:47:33 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:33 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:33 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:33 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:33 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:33 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 11:47:34 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:34 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:34 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:34 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:34 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 11:47:34 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 14:17:01 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:01 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:01 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:01 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:01 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:01 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 14:17:03 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:03 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:03 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:03 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:03 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:03 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 14:17:06 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:06 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:06 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:06 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:06 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:17:06 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 14:18:24 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:18:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:18:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:18:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:18:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:18:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 14:18:30 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:18:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:18:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:18:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:18:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 14:18:30 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 15:24:10 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:24:10 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:24:10 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:24:10 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:24:10 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:24:10 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 15:52:32 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:52:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:52:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:52:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:52:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:52:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 15:52:50 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:52:50 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:52:50 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:52:50 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:52:50 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:52:50 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 15:53:01 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 401] Unable to create record: Authenticate in /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php:88
+Stack trace:
+#0 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Rest/Api/V2010/Account/MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 /home1/fonnboxc/public_html/users/twilio/send.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('+919120240840', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-23 15:53:02 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:53:02 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:53:02 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:53:02 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:53:02 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:53:02 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 15:53:27 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:53:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:53:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:53:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:53:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:53:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 15:54:00 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 15:54:00 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:00 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 15:54:18 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 401] Unable to create record: Authenticate in /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php:88
+Stack trace:
+#0 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Rest/Api/V2010/Account/MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 /home1/fonnboxc/public_html/users/twilio/send.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('+919455730822', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-23 15:54:18 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 15:54:31 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:54:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 15:58:31 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:58:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:58:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:58:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:58:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:58:31 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 15:58:35 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:58:35 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:58:35 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:58:35 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:58:35 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 15:58:35 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:05:53 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:05:53 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:05:53 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:05:53 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:05:53 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:05:53 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:09:14 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:09:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:09:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:09:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:09:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:09:14 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:11:11 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:11:11 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:11:11 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:11:11 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:11:11 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:11:11 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:11:56 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:11:56 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:11:56 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:11:56 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:11:56 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:11:56 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:21:28 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:21:28 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:21:28 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:21:28 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:21:28 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:21:28 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:21:29 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:21:29 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:21:29 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:21:29 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:21:29 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:21:29 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:24:37 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:24:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:24:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:24:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:24:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:24:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:24:38 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:24:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:24:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:24:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:24:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:24:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:27:11 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:27:11 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:27:11 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:27:11 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:27:11 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:27:11 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:27:12 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:27:12 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:27:12 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:27:12 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:27:12 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:27:12 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:37:38 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:37:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:37:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:37:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:37:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:37:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:37:46 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:37:46 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:37:46 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:37:46 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:37:46 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:37:46 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:39:24 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:39:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:39:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:39:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:39:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:39:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:39:25 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:39:25 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:39:25 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:39:25 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:39:25 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:39:25 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:45:57 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:45:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:45:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:45:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:45:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:45:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:45:58 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:45:58 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:45:58 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:45:58 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:45:58 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:45:58 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:49:26 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:49:26 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:49:26 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:49:26 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:49:26 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:49:26 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:49:27 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:49:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:49:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:49:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:49:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:49:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:51:23 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:51:23 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:51:23 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:51:23 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:51:23 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:51:23 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:51:24 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:51:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:51:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:51:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:51:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:51:24 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:55:18 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:55:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:55:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:55:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:55:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:55:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:55:19 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:55:19 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:55:19 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:55:19 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:55:19 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:55:19 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:59:37 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:59:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:59:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:59:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:59:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:59:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 16:59:38 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:59:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:59:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:59:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:59:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 16:59:38 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:02:32 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:02:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:02:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:02:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:02:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:02:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:04:22 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:04:22 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:04:22 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:04:22 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:04:22 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:04:22 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:07:36 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:07:36 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:07:37 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:07:37 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:37 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:07:42 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 401] Unable to create record: Authenticate in /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php:88
+Stack trace:
+#0 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Rest/Api/V2010/Account/MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 /home1/fonnboxc/public_html/users/twilio/send.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('9918603117', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-23 17:07:42 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:42 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:42 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:42 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:42 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:42 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:07:44 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:44 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:44 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:44 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:44 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:44 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:07:47 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:47 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:47 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:47 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:47 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:47 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:07:49 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:49 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:49 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:49 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:49 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:49 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:07:52 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:52 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:52 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:52 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:52 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:07:52 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:08:21 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 401] Unable to create record: Authenticate in /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php:88
+Stack trace:
+#0 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Rest/Api/V2010/Account/MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 /home1/fonnboxc/public_html/users/twilio/send.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('+44 111111', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-10-23 17:08:21 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:21 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:21 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:21 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:21 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:21 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:08:29 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:29 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:29 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:29 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:29 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:29 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 17:08:32 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 17:08:32 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 21:09:57 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 21:09:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 21:09:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 21:09:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 21:09:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 21:09:57 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 23:28:35 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:35 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:35 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:35 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:35 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:35 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 23:28:36 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:36 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-10-23 23:28:39 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:39 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:39 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:39 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:39 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/core/includes/master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_WARNING
+)
+
+2020-10-23 23:28:39 - *** WARNING *** Array
+(
+    [Error Msg] => session_start(): Cannot start session when headers already sent
+    [File] => /home1/fonnboxc/public_html/plugins/sociallogin/includes/hybridauth/Hybrid/Storage.php
+    [Line Number] => 20
+    [Error Type] => E_WARNING
+)
+

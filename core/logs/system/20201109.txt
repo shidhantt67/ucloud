@@ -1,0 +1,957 @@
+===========================================================
+2020-11-09 13:36:10 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 13:36:16 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 13:36:20 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 16
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 13:36:21 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 49
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 13:58:38 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: Permission to send an SMS has not been enabled for the region indicated by the 'To' number: +12262792161. in /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php:88
+Stack trace:
+#0 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Rest/Api/V2010/Account/MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 /home1/fonnboxc/public_html/users/twilio/send.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('+1226-279-2161', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-11-09 14:07:14 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: Permission to send an SMS has not been enabled for the region indicated by the 'To' number: +9779816420351. in /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php:88
+Stack trace:
+#0 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Rest/Api/V2010/Account/MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 /home1/fonnboxc/public_html/users/twilio/send.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('+9779816420351', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-11-09 15:20:06 - *** WARNING *** Array
+(
+    [Error Msg] => Cannot modify header information - headers already sent by (output started at /home1/fonnboxc/public_html/users/header.php:12)
+    [File] => /home1/fonnboxc/public_html/core/includes/auth.class.php
+    [Line Number] => 128
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-11-09 15:20:59 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:21:16 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 16
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 15:21:17 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 49
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:22:20 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:23:50 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:23:55 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:23:58 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:24:04 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:24:28 - *** WARNING *** Array
+(
+    [Error Msg] => Cannot modify header information - headers already sent by (output started at /home1/fonnboxc/public_html/users/header.php:12)
+    [File] => /home1/fonnboxc/public_html/core/includes/auth.class.php
+    [Line Number] => 128
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-11-09 15:24:54 - *** WARNING *** Array
+(
+    [Error Msg] => Cannot modify header information - headers already sent by (output started at /home1/fonnboxc/public_html/users/header.php:12)
+    [File] => /home1/fonnboxc/public_html/core/includes/auth.class.php
+    [Line Number] => 128
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-11-09 15:25:51 - *** WARNING *** Array
+(
+    [Error Msg] => Cannot modify header information - headers already sent by (output started at /home1/fonnboxc/public_html/users/header.php:12)
+    [File] => /home1/fonnboxc/public_html/core/includes/auth.class.php
+    [Line Number] => 128
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-11-09 15:43:05 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 15:43:05 - Array
+(
+    [Error Msg] => Undefined index: error
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 101
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 15:43:05 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-11-09 15:43:20 - Array
+(
+    [Error Msg] => Undefined index: fileIds
+    [File] => /home1/fonnboxc/public_html/admin/ajax/file_manage_bulk_delete.ajax.php
+    [Line Number] => 13
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 15:43:20 - *** WARNING *** Array
+(
+    [Error Msg] => count(): Parameter must be an array or an object that implements Countable
+    [File] => /home1/fonnboxc/public_html/admin/ajax/file_manage_bulk_delete.ajax.php
+    [Line Number] => 27
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-11-09 15:43:27 - Array
+(
+    [Error Msg] => Undefined index: fileIds
+    [File] => /home1/fonnboxc/public_html/admin/ajax/file_manage_bulk_delete.ajax.php
+    [Line Number] => 13
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 15:43:27 - *** WARNING *** Array
+(
+    [Error Msg] => count(): Parameter must be an array or an object that implements Countable
+    [File] => /home1/fonnboxc/public_html/admin/ajax/file_manage_bulk_delete.ajax.php
+    [Line Number] => 27
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-11-09 15:43:41 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 15:43:41 - Array
+(
+    [Error Msg] => Undefined index: error
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 101
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 15:43:41 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-11-09 15:44:57 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:45:40 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 16
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 15:45:41 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 49
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:50:06 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:51:45 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:52:07 - Array
+(
+    [Error Msg] => Undefined variable: loginUsername
+    [File] => /home1/fonnboxc/public_html/core/includes/auth.class.php
+    [Line Number] => 306
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:53:53 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:53:57 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:54:09 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:55:47 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:55:51 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:56:11 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' phone number: +12262792161, is not currently reachable using the 'From' phone number: FonnBox via SMS. in /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php:88
+Stack trace:
+#0 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Rest/Api/V2010/Account/MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC333...', Array, Array)
+#2 /home1/fonnboxc/public_html/users/twilio/send.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('+12262792161', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => /home1/fonnboxc/public_html/users/twilio/vendor/twilio/sdk/src/Twilio/Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-11-09 15:57:09 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:58:41 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:59:14 - *** WARNING *** Array
+(
+    [Error Msg] => Cannot modify header information - headers already sent by (output started at /home1/fonnboxc/public_html/users/header.php:12)
+    [File] => /home1/fonnboxc/public_html/core/includes/auth.class.php
+    [Line Number] => 128
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-11-09 15:59:27 - Array
+(
+    [Error Msg] => Undefined variable: loginUsername
+    [File] => /home1/fonnboxc/public_html/core/includes/auth.class.php
+    [Line Number] => 306
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 15:59:35 - *** WARNING *** Array
+(
+    [Error Msg] => Cannot modify header information - headers already sent by (output started at /home1/fonnboxc/public_html/users/header.php:12)
+    [File] => /home1/fonnboxc/public_html/core/includes/auth.class.php
+    [Line Number] => 128
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-11-09 16:04:59 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:07:06 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:07:06 - Array
+(
+    [Error Msg] => Undefined index: error
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 101
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:07:06 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-11-09 16:23:22 - Array
+(
+    [Error Msg] => Undefined index: filterUserId
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 10
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:23:22 - Array
+(
+    [Error Msg] => Undefined variable: filterByUser
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 41
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:23:22 - Array
+(
+    [Error Msg] => Undefined index: id
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 95
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:23:22 - Array
+(
+    [Error Msg] => Undefined index: id
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 95
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:23:22 - Array
+(
+    [Error Msg] => Undefined index: id
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 95
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:23:22 - Array
+(
+    [Error Msg] => Undefined index: id
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 95
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:23:22 - Array
+(
+    [Error Msg] => Undefined index: id
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 95
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:30:19 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:30:27 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 16
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:30:28 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 49
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:30:52 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:31:14 - Array
+(
+    [Error Msg] => Undefined index: filterUserId
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 10
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:31:14 - Array
+(
+    [Error Msg] => Undefined variable: filterByUser
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 41
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:31:14 - Array
+(
+    [Error Msg] => Undefined index: id
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 95
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:31:14 - Array
+(
+    [Error Msg] => Undefined index: id
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 95
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:31:14 - Array
+(
+    [Error Msg] => Undefined index: id
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 95
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:31:14 - Array
+(
+    [Error Msg] => Undefined index: id
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 95
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:31:14 - Array
+(
+    [Error Msg] => Undefined index: id
+    [File] => /home1/fonnboxc/public_html/admin/ajax/payment.ajax.php
+    [Line Number] => 95
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:31:55 - Array
+(
+    [Error Msg] => Undefined variable: user_password
+    [File] => /home1/fonnboxc/public_html/admin/user_edit.php
+    [Line Number] => 516
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:34:12 - Array
+(
+    [Error Msg] => Undefined variable: user_password
+    [File] => /home1/fonnboxc/public_html/admin/user_edit.php
+    [Line Number] => 516
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:39:32 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:42:09 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:43:43 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:43:51 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:46:16 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:46:33 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 16
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:46:33 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 49
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:47:14 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 16
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 16:47:14 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 49
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:47:18 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:48:00 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 16:48:14 - *** WARNING *** Array
+(
+    [Error Msg] => Cannot modify header information - headers already sent by (output started at /home1/fonnboxc/public_html/users/header.php:12)
+    [File] => /home1/fonnboxc/public_html/core/includes/auth.class.php
+    [Line Number] => 128
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-11-09 17:15:45 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 17:15:45 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-11-09 17:16:07 - Array
+(
+    [Error Msg] => Non-static method coreFunctions::sendHtmlEmail() should not be called statically
+    [File] => /home1/fonnboxc/public_html/admin/_test_scripts/test_email.php
+    [Line Number] => 12
+    [Error Type] => E_DEPRECATED
+)
+
+2020-11-09 17:16:07 - *** WARNING *** Array
+(
+    [Error Msg] => Use of undefined constant SITE_CONFIG_EMAIL_SECURE_METHOD - assumed 'SITE_CONFIG_EMAIL_SECURE_METHOD' (this will throw an Error in a future version of PHP)
+    [File] => /home1/fonnboxc/public_html/core/includes/coreFunctions.class.php
+    [Line Number] => 547
+    [Error Type] => E_WARNING
+)
+
+2020-11-09 17:16:07 - *** WARNING *** Array
+(
+    [Error Msg] => Use of undefined constant SITE_CONFIG_EMAIL_SECURE_METHOD - assumed 'SITE_CONFIG_EMAIL_SECURE_METHOD' (this will throw an Error in a future version of PHP)
+    [File] => /home1/fonnboxc/public_html/core/includes/coreFunctions.class.php
+    [Line Number] => 547
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-11-09 17:18:44 - Array
+(
+    [Error Msg] => Non-static method coreFunctions::sendHtmlEmail() should not be called statically
+    [File] => /home1/fonnboxc/public_html/admin/_test_scripts/test_email.php
+    [Line Number] => 12
+    [Error Type] => E_DEPRECATED
+)
+
+2020-11-09 17:18:44 - *** WARNING *** Array
+(
+    [Error Msg] => Use of undefined constant SITE_CONFIG_EMAIL_SECURE_METHOD - assumed 'SITE_CONFIG_EMAIL_SECURE_METHOD' (this will throw an Error in a future version of PHP)
+    [File] => /home1/fonnboxc/public_html/core/includes/coreFunctions.class.php
+    [Line Number] => 547
+    [Error Type] => E_WARNING
+)
+
+2020-11-09 17:18:44 - *** WARNING *** Array
+(
+    [Error Msg] => Use of undefined constant SITE_CONFIG_EMAIL_SECURE_METHOD - assumed 'SITE_CONFIG_EMAIL_SECURE_METHOD' (this will throw an Error in a future version of PHP)
+    [File] => /home1/fonnboxc/public_html/core/includes/coreFunctions.class.php
+    [Line Number] => 547
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-11-09 17:21:58 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 17:22:06 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 17:22:06 - Array
+(
+    [Error Msg] => Undefined index: error
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 101
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 17:22:06 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-11-09 17:22:10 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 17:22:10 - Array
+(
+    [Error Msg] => Undefined index: error
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 101
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 17:22:10 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-11-09 17:22:13 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 17:53:01 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 17:53:01 - Array
+(
+    [Error Msg] => Undefined index: error
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 101
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 17:53:01 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-11-09 18:25:45 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 18:25:45 - Array
+(
+    [Error Msg] => Undefined index: error
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 101
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 18:25:45 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-11-09 20:02:42 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-09 22:54:07 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 22:54:07 - Array
+(
+    [Error Msg] => Undefined index: error
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 101
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 22:54:07 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+
+===========================================================
+2020-11-09 22:57:23 - Array
+(
+    [Error Msg] => Undefined index: submitme
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 20
+    [Error Type] => E_NOTICE
+)
+
+2020-11-09 22:57:23 - Array
+(
+    [Error Msg] => Non-static method adminFunctions::getUsersIPAddress() should not be called statically
+    [File] => /home1/fonnboxc/public_html/admin/login.php
+    [Line Number] => 128
+    [Error Type] => E_DEPRECATED
+)
+

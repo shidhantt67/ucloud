@@ -1,0 +1,52 @@
+===========================================================
+2020-11-08 07:31:45 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-08 07:31:52 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 16
+    [Error Type] => E_NOTICE
+)
+
+2020-11-08 07:31:54 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 49
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-08 17:55:47 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => /home1/fonnboxc/public_html/users/home.php
+    [Line Number] => 4
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-11-08 17:55:56 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 16
+    [Error Type] => E_NOTICE
+)
+
+2020-11-08 17:55:57 - Array
+(
+    [Error Msg] => Undefined property: Auth::$firstname
+    [File] => /home1/fonnboxc/public_html/users/userpayment.php
+    [Line Number] => 49
+    [Error Type] => E_NOTICE
+)
+

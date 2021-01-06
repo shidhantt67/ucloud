@@ -1,0 +1,118 @@
+<?php
+
+// load theme functions
+$themeObj = themeHelper::getLoadedInstance();
+
+// page settings
+define("PAGE_NAME", "OTP Verification");
+define("PAGE_DESCRIPTION", "verify ");
+define("PAGE_KEYWORDS", t("login_meta_keywords", "login, register, image, picture, pic, img, hosting, sharing, upload, storage, site, website"));
+
+// top navigation
+require_once(SITE_TEMPLATES_PATH . '/partial/_navigation_header.inc.php');
+
+// header top
+require_once(SITE_TEMPLATES_PATH . '/partial/_header_file_manager_top.inc.php');
+
+$rndno = $_SESSION["randnumber"];
+
+
+if (isset($_POST["otp"])) {
+   $otp = $_POST["otp"];
+   if($rndno == $otp){
+      $_SESSION["otp_verification"] = True;
+      coreFunctions::redirect(WEB_ROOT.'/index.'.SITE_CONFIG_PAGE_EXTENSION);
+   }else{
+      $error = "OTP not matched!!!";
+   }
+}
+?>
+<div class="login-container">
+<div class="container">
+   <div id="loginbox" style="margin-top:50px;" class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+      <div class="panel panel-info" >
+         <div class="panel-heading">
+            <div class="panel-title">Please enter 6-digit OTP received on your registered number.</div>
+            <div style="float:right; font-size: 80%; position: relative; top:-10px"></div>
+         </div>
+         <div style="padding-top:30px" class="panel-body" >
+         <?php if (isset($error)): ?>
+						<div id="login-alert" class="alert alert-danger col-sm-12"><?php echo $error; ?></div>
+			<?php endif; ?>
+            <div style="display:none" id="login-alert" class="alert alert-danger col-sm-12"></div>
+            <form action="" id="otp_form" class="form-horizontal" role="form" method="post">
+               <div style="margin-bottom: 25px" class="input-group">
+                  <input type="text" class="form-control" id="otp" name="otp" value="" placeholder="Enter OTP" required>                                        
+               </div>
+               <div style="margin-top:10px" class="form-group">
+                  <div class="col-sm-12 controls">
+                     <input type="submit" name="submit" class="btn btn-success" value="Submit" id="submit">
+                     &nbsp;&nbsp;&nbsp;&nbsp;
+                     <input type="button" name="resend" class="btn btn-success" value="Resend" id="resend" disabled>
+                  </div>
+                  
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+</div>
+</div>
+<script src="<?php echo SITE_JS_PATH; ?>/gsap/main-gsap.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/bootstrap.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/joinable.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/resizeable.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/cloudable-api.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/jquery.validate.min.js"></script>
+    <script src="<?php echo SITE_JS_PATH; ?>/custom.js"></script>
+<script>
+
+$(document).ready(function(){
+   function resend_button(){
+      var i = 5;
+      var time = $("#resend")
+      var timer = setInterval(function() {
+      time.val('Resend in ' + i + ' seconds...');
+      if (i == 0) {
+         time.prop('disabled', false);
+         time.val('Resend');
+         clearInterval(timer);
+      }
+      i--;
+      }, 1000);
+   }
+   resend_button();
+   
+
+   $('#resend').on('click', function(){
+      console.log("OTP sending again......");
+      resend_button();
+      $.ajax({
+						url: WEB_ROOT + '/ajax/_send_otp.ajax.php',
+						method: 'POST',
+						dataType: 'json',
+						error: function(jqXHR, textStatus)
+						{
+							alert("An error occoured reaching the site to login, please try again later. Actual response message: "+jqXHR.statusText);
+						},
+						success: function(response)
+						{
+							// Login status [success|invalid]
+							var login_status = response.otp_status;
+                     console.log(response);
+                     if(login_status == 'failed'){
+                        var error_container = $('#login-alert');
+                        error_container.show();
+                        error_container.html('<p>'+ response.error +'</p>');
+                     }
+                  }
+        });
+   });
+});
+
+</script>
+
+<?php
+// include footer
+require_once(SITE_TEMPLATES_PATH . '/partial/_footer.inc.php');
+?>

@@ -1,0 +1,75 @@
+<?php 
+// load theme functions
+$themeObj = themeHelper::getLoadedInstance();
+
+// setup page
+define("PAGE_NAME", "Payment");
+// define("PAGE_DESCRIPTION", "Select packages");
+
+// top navigation
+require_once(SITE_TEMPLATES_PATH . '/partial/_navigation_header.inc.php');
+
+// header top
+require_once(SITE_TEMPLATES_PATH . '/partial/_header_file_manager_top.inc.php');
+
+use Razorpay\Api\Api;
+
+$AuthUser = Auth::getAuth();
+$db = Database::getDatabase();
+
+$api = new Api(RAZORPAY_KEY_ID, RAZORPAY_SECRET_KEY);
+if(isset($_POST['submit']))
+{	
+$name = $AuthUser->firstname;
+$email = $AuthUser->email;
+
+$PAT_AMT = $_POST['payment'];
+
+}
+
+$order = $api->order->create(array(
+	'receipt' => rand(1000 , 9999) . 'ORD',
+	'amount' => $PAT_AMT,
+	'payment_capture' => 1,
+	'currency' => 'INR',
+	)
+);
+setcookie("order_id", $order->id, time() + (86400 * 30), "/");
+
+?>
+
+<!-- <meta name="viewport" content="width=device-width"> -->
+<div class="login-container">
+<div style="margin: auto;width: 10%;">
+
+
+		<br>
+
+<form action="<?= WEB_ROOT.'/payment_success.'.SITE_CONFIG_PAGE_EXTENSION ?>" method="POST">
+<input type="hidden" value="<?php echo $order->amount ?>" name="ammount">
+<script
+	src="https://checkout.razorpay.com/v1/checkout.js"
+	data-key="<?php echo RAZORPAY_KEY_ID ?>"
+	data-amount="<?php echo $order->amount ?>"
+	data-currency="INR"
+	data-order_id="<?php echo $order->id ?>"
+	data-buttontext="pay with razorpay"
+	data-name="Myinboxhub"
+	data-description="For Donation"
+	data-image="<?php echo 'https://myinboxhub.co.in/data/logo/logo.png' ?>"
+	data-prefill.name="<?php echo $AuthUser->firstname ?>"
+	data-prefill.email="<?php echo $AuthUser->email ?>"
+	data-prefill.contact="<?= $AuthUser->contact_no ?>"
+	data-theme.color="#foa43c"
+></script>
+<input type="hidden" custom="Hidden Element" name="hidden">
+
+	
+</form>
+
+</div>
+</div>
+
+<?php
+// include footer
+require_once(SITE_TEMPLATES_PATH . '/partial/_footer.inc.php');

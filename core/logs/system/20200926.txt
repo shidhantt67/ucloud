@@ -1,0 +1,710 @@
+===========================================================
+2020-09-26 14:44:27 - *** WARNING *** Array
+(
+    [Error Msg] => file_put_contents(C:\xampp\htdocs\ucloud/core/logs/sociallogin_debug.txt): failed to open stream: Resource temporarily unavailable
+    [File] => C:\xampp\htdocs\ucloud\plugins\sociallogin\includes\hybridauth\Hybrid\Logger.php
+    [Line Number] => 67
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-26 15:45:34 - Array
+(
+    [Error Msg] => Undefined variable: username
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 624
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 15:57:46 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Error: Call to undefined function sesson_start() in C:\xampp\htdocs\ucloud\core\includes\auth.class.php:623
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\userLogin.php(118): Auth::userOtpSession('avneesh6389')
+#1 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 623
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-09-26 15:57:56 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Error: Call to undefined function sesson_start() in C:\xampp\htdocs\ucloud\core\includes\auth.class.php:623
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\userLogin.php(118): Auth::userOtpSession('avneesh6389')
+#1 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 623
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-09-26 15:59:28 - Array
+(
+    [Error Msg] => Undefined variable: _session
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 629
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:00:27 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 628
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 16:00:27 - Array
+(
+    [Error Msg] => Undefined variable: _session
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 630
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:00:45 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 628
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:03:45 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\userLogin.php
+    [Line Number] => 119
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:04:52 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 628
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:11:04 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\userLogin.php
+    [Line Number] => 119
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:11:11 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 628
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 16:11:11 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\userLogin.php
+    [Line Number] => 119
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:11:27 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 628
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 16:11:27 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\userLogin.php
+    [Line Number] => 119
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:12:04 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 628
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 16:12:04 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\userLogin.php
+    [Line Number] => 119
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:12:16 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 628
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:12:28 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 628
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 16:12:28 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\userLogin.php
+    [Line Number] => 119
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:12:39 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 628
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 16:12:39 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\userLogin.php
+    [Line Number] => 119
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:14:07 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 628
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 16:14:07 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\userLogin.php
+    [Line Number] => 119
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:14:51 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 628
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:15:22 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 628
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:25:36 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 627
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 16:25:36 - Array
+(
+    [Error Msg] => Undefined variable: use
+    [File] => C:\xampp\htdocs\ucloud\users\userLogin.php
+    [Line Number] => 120
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:28:26 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 627
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:28:39 - Array
+(
+    [Error Msg] => Undefined variable: use
+    [File] => C:\xampp\htdocs\ucloud\users\userLogin.php
+    [Line Number] => 120
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 16:28:39 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 627
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 16:33:24 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\auth.class.php
+    [Line Number] => 627
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 16:33:24 - Array
+(
+    [Error Msg] => Undefined variable: use
+    [File] => C:\xampp\htdocs\ucloud\users\userLogin.php
+    [Line Number] => 120
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 18:25:50 - *** WARNING *** Array
+(
+    [Error Msg] => Unknown: Cannot call session save handler in a recursive manner
+    [File] => Unknown
+    [Line Number] => 0
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 18:25:50 - *** WARNING *** Array
+(
+    [Error Msg] => Unknown: Failed to write session data using user defined save handler. (session.save_path: C:\xampp\tmp)
+    [File] => Unknown
+    [Line Number] => 0
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-26 18:26:04 - *** WARNING *** Array
+(
+    [Error Msg] => Unknown: Cannot call session save handler in a recursive manner
+    [File] => Unknown
+    [Line Number] => 0
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 18:26:04 - *** WARNING *** Array
+(
+    [Error Msg] => Unknown: Failed to write session data using user defined save handler. (session.save_path: C:\xampp\tmp)
+    [File] => Unknown
+    [Line Number] => 0
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-26 18:26:41 - *** WARNING *** Array
+(
+    [Error Msg] => Unknown: Cannot call session save handler in a recursive manner
+    [File] => Unknown
+    [Line Number] => 0
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 18:26:41 - *** WARNING *** Array
+(
+    [Error Msg] => Unknown: Failed to write session data using user defined save handler. (session.save_path: C:\xampp\tmp)
+    [File] => Unknown
+    [Line Number] => 0
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-26 18:26:58 - *** WARNING *** Array
+(
+    [Error Msg] => Unknown: Cannot call session save handler in a recursive manner
+    [File] => Unknown
+    [Line Number] => 0
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 18:26:58 - *** WARNING *** Array
+(
+    [Error Msg] => Unknown: Failed to write session data using user defined save handler. (session.save_path: C:\xampp\tmp)
+    [File] => Unknown
+    [Line Number] => 0
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-26 18:38:17 - *** WARNING *** Array
+(
+    [Error Msg] => Unknown: Cannot call session save handler in a recursive manner
+    [File] => Unknown
+    [Line Number] => 0
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 18:38:17 - *** WARNING *** Array
+(
+    [Error Msg] => Unknown: Failed to write session data using user defined save handler. (session.save_path: C:\xampp\tmp)
+    [File] => Unknown
+    [Line Number] => 0
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-26 18:38:37 - *** WARNING *** Array
+(
+    [Error Msg] => Unknown: Cannot call session save handler in a recursive manner
+    [File] => Unknown
+    [Line Number] => 0
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 18:38:37 - *** WARNING *** Array
+(
+    [Error Msg] => Unknown: Failed to write session data using user defined save handler. (session.save_path: C:\xampp\tmp)
+    [File] => Unknown
+    [Line Number] => 0
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-26 18:54:56 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 401] Unable to create record: Authenticate in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC842...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(38): Twilio\Rest\Api\V2010\Account\MessageList->create('+916389896544', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-09-26 19:16:45 - *** WARNING *** Array
+(
+    [Error Msg] => session_destroy(): Trying to destroy uninitialized session
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 2
+    [Error Type] => E_WARNING
+)
+
+===========================================================
+2020-09-26 19:18:05 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 30
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 19:26:44 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 5
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 19:27:25 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 5
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 19:27:25 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 26
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 19:27:26 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number +91 is not a valid phone number. in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC842...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(40): Twilio\Rest\Api\V2010\Account\MessageList->create('+91', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-09-26 19:28:15 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 5
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 19:28:15 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 26
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 19:28:16 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number +91 is not a valid phone number. in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC842...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(40): Twilio\Rest\Api\V2010\Account\MessageList->create('+91', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-09-26 20:02:22 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 20:02:22 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 29
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 20:02:24 - *** ERROR *** Array
+(
+    [Error Msg] => Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number +91 is not a valid phone number. in C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php:88
+Stack trace:
+#0 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php(223): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC842...', Array, Array)
+#2 C:\xampp\htdocs\ucloud\users\twilio\send.php(39): Twilio\Rest\Api\V2010\Account\MessageList->create('+91', Object(Twilio\Values))
+#3 {main}
+  thrown
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\vendor\twilio\sdk\src\Twilio\Version.php
+    [Line Number] => 88
+    [Error Type] => E_ERROR
+)
+
+===========================================================
+2020-09-26 20:04:15 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 20:04:15 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 29
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 20:05:49 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 20:05:49 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 29
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 20:09:27 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+
+2020-09-26 20:09:27 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 29
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 20:10:18 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [File] => C:\xampp\htdocs\ucloud\core\includes\dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 20:10:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when session is active
+    [File] => C:\xampp\htdocs\ucloud\core\includes\dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 20:10:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when session is active
+    [File] => C:\xampp\htdocs\ucloud\core\includes\master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 20:10:18 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when session is active
+    [File] => C:\xampp\htdocs\ucloud\core\includes\master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 20:10:18 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 20:10:27 - *** WARNING *** Array
+(
+    [Error Msg] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [File] => C:\xampp\htdocs\ucloud\core\includes\dBSession.class.php
+    [Line Number] => 8
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 20:10:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_save_handler(): Cannot change save handler when session is active
+    [File] => C:\xampp\htdocs\ucloud\core\includes\dBSession.class.php
+    [Line Number] => 9
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 20:10:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_name(): Cannot change session name when session is active
+    [File] => C:\xampp\htdocs\ucloud\core\includes\master.inc.php
+    [Line Number] => 72
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 20:10:27 - *** WARNING *** Array
+(
+    [Error Msg] => session_set_cookie_params(): Cannot change session cookie parameters when session is active
+    [File] => C:\xampp\htdocs\ucloud\core\includes\master.inc.php
+    [Line Number] => 75
+    [Error Type] => E_WARNING
+)
+
+2020-09-26 20:10:27 - Array
+(
+    [Error Msg] => session_start(): A session had already been started - ignoring
+    [File] => C:\xampp\htdocs\ucloud\core\includes\master.inc.php
+    [Line Number] => 79
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 20:10:40 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 20:12:50 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 20:19:44 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 20:22:29 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+
+===========================================================
+2020-09-26 20:24:07 - Array
+(
+    [Error Msg] => Undefined property: Auth::$contact
+    [File] => C:\xampp\htdocs\ucloud\users\twilio\send.php
+    [Line Number] => 25
+    [Error Type] => E_NOTICE
+)
+

@@ -1,0 +1,218 @@
+v1.5.2
+
+- Fix for remote download vulnerability when gopher protocol installed.
+- Fix for SQLi vulnerability within admin area datatable scripts.
+- Fix for XSS in admin 'log file viewer' and 'get all file server paths' script.
+- Improved uniqueness of password reset hash.
+
+Release notes: There are no database changes in this release. Changed files:
+
+/admin/ajax/ - Entire folder
+/admin/log_file_viewer.php
+/core/includes/coreFunctions.class.php
+/core/includes/uploader.class.php
+/core/includes/userPeer.class.php
+
+
+v1.5.1
+
+- Minor fix to resolve duplicate folders on sharing.
+- Minor fix to file action queue processing.
+
+Release Notes - There are no database changes in this release. To upgrade an existing install,
+simply copy the following files to your installation:
+
+/themes/cloudable/templates/ajax/_load_album.ajax.php
+/core/includes/fileAction.class.php
+
+
+v1.5
+
+- Replacement of mcrypt functions with OpenSSL for PHP7.2+.
+- API changes - New admin only endpoints:
+--- /account/create
+--- /account/edit
+--- /account/delete
+--- /package/listing
+- Added optional CDN support for image previews and thumbnails. (via file server management)
+- Added optional captcha to user login screen.
+- Added optional captcha to admin login screen.
+- Big changes to how the delete file process works within the code:
+--- All deletes are now scheduled within the file action queue, including FTP, S3 and Flysystem adapters.
+--- Better management of file server paths - stored against the file server in the admin area.
+--- Removal of ajax calls to remote storage server on delete, significant performance improvement.
+- User file manager changes:
+--- Added folder ordering.
+--- Added select folder option, support for multiple as per files.
+--- Added multi folder delete & drag and drop to move.
+--- Added empty trash button to trash toolbar.
+--- Hold ctrl+click to select folders.
+--- Direct file link option for all files.
+- Admin area changes:
+--- Moved "Max File Uploads Per Day" into account packages.
+--- Moved "Accepted Upload File Types" into account packages.
+--- Moved "Blocked Upload File Types" into account packages.
+--- Added option to auto clear trash items older than x days in account packages.
+- Better feedback on login failures for the admin area.
+- Better handling of core FTP storage when passive mode is enabled.
+- Improvements to how the account avatar is loaded to avoid restrictions on certain servers.
+- Fix to Amazon S3 storage configuration issue.
+- File server option to download over different protocol compared with main site.
+- Moved the local storage path from _config.inc.php into the file server admin.
+- All database tables changed to 'InnoDB' & 'utf8mb4_general_ci' to allow for MySQL clustering support.
+
+Release Notes: There are database changes within this release. See /install/resources/upgrade_sql_statements/v1.4.2 - v1.5.sql.
+
+
+v1.4.2
+
+- Minor fix to internal folder sharing with download_upload permissions.
+- Minor fix to 'download as zip' not including sub-folders on shared folders.
+- Fixed admin user manage, password reset causing admin logout.
+
+
+v1.4.1
+
+- Minor fix to s3 storage.
+- Minor fix to sql error on install.
+
+
+v1.4
+
+- Flysystem integration. Core script initial support for file storage on:
+--- SFTP
+--- Amazon S3
+--- Rackspace Cloud Files
+--- FTP (via Flysystem, possible future replacement of core FTP storage)
+- File Upload API:
+--- Account Operations: Get account info, get account package info (max upload size, account limits etc).
+--- File Operations: Upload, Download, Get info, Edit meta data, Delete, Move, Copy.
+--- Folder Operations: Create, List (Files and Folders), Get info, Edit meta data, Delete, Move.
+- Admin Area:
+--- Admin area interface rewrite so it's now using Bootstrap 3.
+--- Bulk import tool. Within the admin area bulk import files into an account from on a folder on your server.
+--- Added user avatar to manage users page.
+--- Added option to remove or set avatar on add/edit user.
+--- Fix to add/edit user password setting. Now uses the global password rules.
+- Better support for prepared arguments in the database layer.
+- Fix to search widget not always displaying the correct file results.
+- Fix to ordering of files in file manager.
+- Updated social login plugin - Fixed Facebook not working due to API changes.
+- Facebook login - removed the request for date or birth, town and about me, in permissions.
+- Added additional database indexes to improve performance.
+- Fixed session notice in later versions of PHP - session_write_close(): Failed to write session data (user).
+- Fixed SMTP sending issues caused by debug being enabled within email sending library.
+- Fixed issue with folder zip download not being fully recursive.
+
+Release Notes: There are database changes within this release. See /install/resources/upgrade_sql_statements/v1.3.4 - v1.4.sql.
+
+
+v1.3.4
+
+- Update of PHPMailer to fix recently announced security issue - https://github.com/PHPMailer/PHPMailer/releases/tag/v5.2.22
+
+
+v1.3.2
+
+- Minor fix for issues with FTP storage server sometimes not selecting on upload.
+- Minor fix for the default upload view after creating a folder in the root.
+
+NOTE: To apply this patch copy these files to your install:
+/core/includes/uploader.class.php
+/themes/cloudable/templates/ajax/_account_add_edit_folder.process.ajax.php
+
+
+v1.3.1
+
+- Minor fix for duplicate folder listing on internally shared folders.
+
+NOTE: To apply this patch copy this file to your install: /themes/cloudable/templates/ajax/_load_album.php
+
+
+v1.3
+
+- Internally shared folders. Share any folder with other registered users and enable them to view, upload and download files.
+- Added support for default albums on new account creation/registration. Can be set via the admin, site settings.
+- Improvements to stats logging performance and sync between the stats count and file.visits value.
+- Admin Area:
+--- Added option to bulk remove files by copying and pasting a list of urls.
+--- Fix to add/edit user password setting. Now uses the global password rules.
+- Fixed admin area 12 months new files chart.
+- Improvement to ipToCountry checking for larger IP ranges.
+- Better support for prepared arguments in the database layer.
+- Various improvements and minor bug fixes.
+
+NOTE: There are database changes in this release. See \install\resources\upgrade_sql_statements\v1.2.3 - v1.3.sql
+
+
+v1.2.3
+
+- Renamed script to uCloud.
+
+
+v1.2.2
+
+- Added support for default albums on new account creation/registration. Can be set via the admin, site settings.
+- Improvement to image thumbnail generation on transparent pngs.
+
+
+v1.2.1
+
+- Fix to issue with sharing on private folders not working.
+- Fix to remove use of depreciated function within coreFunctions.class.php for PHP7.
+- Fix to admin add/edit user password setting. Now uses the global password rules.
+- Added sql commands to enable captcha api keys within site settings.
+
+NOTE: There are database changes in this release. See \install\resources\upgrade_sql_statements\v1.2 - v1.2.1.sql
+
+
+v1.2
+
+- PHP7 support.
+- Login with your Facebook, Twitter or Google+ Account (optional setting via admin).
+- User registration page and relating admin settings:
+--- Whether to enable or disable the registration form.
+--- Whether to display the captcha on the site registration form.
+--- Block email address domains from registering. Comma separated list of domains.
+--- Block usernames from the registration page.
+- Automatic language translations via Google Translate API. Translate the entire site content to another language by clicking a button. Note: Requires a Google API key. Menually edited translations can be marked as 'locked' so they're not overwritten.
+- Added support for username and password protected http & ftp urls. In the format ftp://user:pass@host.com/filename.txt.
+- Improved session handling and how regularly the sessions are cleared from the database.
+- Reduced the amount of data stored in each session for bettter performance, from (up to) 65k to just over 1k.
+- Updated IP to Country data and added admin script to update the data as needed. (see the top of /core/includes/ip2Country.class.php)
+- Improved right 'next page' arrow positioning when viewing files. Allows for easier scrolling of documents.
+- Allowed for files to be dragged into folder icons on the main view.
+- Added menu down arrow on folder icons.
+- Admin Area:
+--- Added option in admin to block the same file from being re-uploaded. Optional on file remove and automatic after removal on abuse reports.
+--- Added admin "impersonate user" option, so admin users can login as any other user account.
+--- Added new admin page for backing up the database and codebase. Functionality also built in preparation for automatic upgrades at a later date.
+--- Admin option to set blocked keywords within the filename on file uploads.
+--- Added option to temporarily disable file uploads globally via the admin area, site settings. Uploads will still function for admin accounts.
+--- Added option to temporarily disable file downloads globally via the admin area, site settings. Downloads will still function for admin accounts.
+- Fixed issue with file move between external file servers.
+- Various other UI fixes and improvements.
+
+NOTE: There are database changes in this release. See \install\resources\upgrade_sql_statements\v1.1 - v1.2.sql
+
+
+v1.1
+
+- Added watermarking of images by folder option. Upload a png watermark, set the position and padding. This can then be enabled by folder. Use this to share 'proof' copies of images to customers without giving the user full access to the image.
+- Added an option to hide or show the download button when sharing folders.
+- Automatic language translations via Google Translate API. Translate the entire site content to another language by clicking a button. Note: Requires a Google API key.
+- Added admin, theme settings option to add custom CSS code. This is kept between upgrades of the code.
+- Added admin, theme settings option to set the logo on the publicly shared pages.
+- Support for previewing animated gifs.
+- Added 'download all images' as zip file option when folder is shared.
+- Fix to hide OG image if file is set as private or requires a password.
+- Reduced the maximum size of portrait images when previewing, better fit for common screen resolutions.
+- Improved UI layout on mobile preview of images.
+- Other minor updates and improvements.
+
+NOTE: There are database changes in this release. See \install\resources\upgrade_sql_statements\v1.0 - v1.1.sql
+
+
+v1.0
+
+- Initial release.
