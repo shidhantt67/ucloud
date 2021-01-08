@@ -628,7 +628,6 @@ class coreFunctions
             $message .= "\r\n\r\n--" . $boundary . "--";
 
             $a = mail($address, $subject, $message, $headers);
-            var_dump($a);
         }
     }
 
